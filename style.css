@@ -1,0 +1,125 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #F7F7F7;
+    /* Old browsers */
+    background: -moz-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+  }
+  
+  /** Header styles **/
+  .header {
+    background-image: url(https://lh3.googleusercontent.com/cbZvKgi6ezel30G9vnjxyF_HMR8-kwWqQxbgPmYpdLAg5kYHDx258LqR7DaCzfwlqN-2rGgnbSreigH_zhIf7DXl9SbM6NeAIZSsG9TOJc5_2zPCCqtAiF-s-wPAbNsRAYq-JI9oTrLSYQOB-eySJSzE6MBBc1g_LEa9sp0YPl9zvWaROLIpn664f9z2H14Q95I5ORQD0OwiGmhYElu2pvHA1lmrZhnVqjOWNR2R92_pfj5aQFoK8KDYqoPj0juavYGWt_Tx_ujjSjs5r_DnP5ksyCVTptJ8SDA0lD8I8K87BXODnUD89U8yXzgc31cV57GCZi0Ab9qxkZiW97BPoHs634x6pMKCFpnYNfYPluvyhlbyPvRdqhmTBt9wh0bfbET6Qwkb-NxrrEpc1bVSEDV-LMonUd3oJLoB8zQbP5QDw7DmmSz_yyJQk6OiCplitpN7LNZszt1bGDHfnicFG3M5XC_KgsLFynFCr2G_YfLzmLXWX-5oP-A2CC49yGw496HRGieeVtwgZco9HCN9KyesRxWhsdnEGe4skrFiD3QMfpWI9HwfKRM_rHnGQg=s970-w970-h545-no);
+    height: 400px;
+    background-position: center center;
+  }
+  
+  .roasting {
+    margin: 40px auto;
+    padding: 20px 30px 40px 30px;
+    background-color: #FFFFFFFFF;
+    overflow: auto;
+    width: 75%;
+    border-radius: 4px;
+    align-self: center;
+  }
+  
+  .roasting p {
+    color: #938E89;
+    text-align: center;
+    line-height: 24px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  
+  .spectrum div {
+    font: inherit;
+    padding: 0 20px;
+    color: #FFFFFF;
+    overflow: auto;
+    opacity: 0.9;
+  }
+  
+  .spectrum p {
+    color: #FFFFFF;
+    text-align: left;
+  }
+  
+  /* Roast types */
+  .green {
+    background-color: DarkSeaGreen;
+  }
+  
+  .light {
+    background-color: rgb(88, 155, 25);
+  }
+  
+  .city {
+    background-color: rgb(74, 0, 170);
+  }
+  
+  .vienna {
+    background-color: Brown;
+  }
+  
+  .italian {
+    background-color: Black;
+  }
+  
+  /* Typography */
+  h1 {
+    color: rgb(255, 255, 255);
+    font-family: '', sans-serif;
+    font-size: 100px;
+    line-height: 76px;
+    margin: 0;
+    position: relative;
+    text-align: center;
+    top: 70%;
+  }
+  
+  h2 {
+    color: #E4BB97;
+    font-family: 'Raleway', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    text-align: left;
+    text-transform: uppercase;
+  }
+  
+  h3 {
+    color: rgb(0, 0, 0);
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    text-align: center;
+  }
+  
+  h4 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: .2em;
+  }
+  
+  h5 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: .2em;
+    font-weight: 300;
+  }
+  
+  /* Page elements */
+ footer {
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    text-align: left
+  }
+  
+  
+  
